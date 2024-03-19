@@ -6697,10 +6697,15 @@ transition: transform 0.3s ease;
 	background-image: -webkit-linear-gradient(0deg, #496989 20%, #716108 80%);
 }
 .Milad-div{
-		background-image: -webkit-linear-gradient(0deg, #496989 20%, #716108 80%);
-		background-image: -webkit-linear-gradient(0deg, #496989 20%, #716108 80%);
-		background-image: -webkit-linear-gradient(0deg, #496989 20%, #716108 80%);
+		background-image: -webkit-linear-gradient(0deg, #3D8361 20%, #1C6758 80%);
+		background-image: -webkit-linear-gradient(0deg, #3D8361 20%, #1C6758 80%);
+		background-image: -webkit-linear-gradient(0deg, #3D8361 20%, #1C6758 80%);
 	}
+	.pak-area {
+			background-image: -webkit-linear-gradient(0deg, #146356 20%, #224B0C 80%);
+			background-image: -webkit-linear-gradient(0deg, #146356 20%, #224B0C 80%);
+			background-image: -webkit-linear-gradient(0deg, #146356 20%,  #224B0C 80%);
+		}
   @media (min-width: 991px){
   .main-menu ul .mytab  ul.submenu {
     position: absolute;
